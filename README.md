@@ -28,9 +28,7 @@ I'm a college student and a noob coder on a quest to level up. Not here to make 
 
 Here are my noob projects:
 
-1. **[My First Website](https://github.com/errnitsuga/my-first-website)**: Just basic HTML and CSS. It's a start.
-2. **[JavaScript Playground](https://github.com/errnitsuga/javascript-playground)**: Messing around with JavaScript. Expect bugs.
-3. **[Learning Git](https://github.com/errnitsuga/learning-git)**: Trying to get the hang of version control.
+1. **[Hydroxeg](https://errnitsuga.github.io/hydroxeg/)**: Project.
 
 ## Connect with Me
 
