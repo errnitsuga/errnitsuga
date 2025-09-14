@@ -1,4 +1,4 @@
-# Yo, I'm Errnitsuga 🎮
+# Yo 🎮
 
 <img src="https://media.giphy.com/media/3o7TKy99YozGr2UAuI/giphy.gif?cid=790b7611pf21ygqnj7a44k6emzob14yub95zqqvurpedth6c&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Background Image" style="width:100%; height:200px; object-fit:cover;"/>
 
@@ -11,7 +11,7 @@ I'm a college student and a noob coder on a quest to level up. Not here to make 
 - 🌱 **Currently Learning:** Java, VB.NET, C#, ASP.NET, Python, ESP32. Gotta start somewhere.
 - 💼 **Occupation:** Wannabe developer, currently in training mode
 - ⚔️ **Open to:** Team-ups that push my skills to the limit
-- 📫 **Contact:** [email@example.com](mailto:email@example.com) - if you're brave enough
+- 📫 **Contact:** [email@example.com](mailto:email@example.com)
 
 ## Skills
 
