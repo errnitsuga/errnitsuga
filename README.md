@@ -1,71 +1,82 @@
 # Yo 🎮
 
-<img src="https://media.giphy.com/media/3o7TKy99YozGr2UAuI/giphy.gif" alt="Banner" style="width:100%; height:200px; object-fit:cover;"/>
+![Banner](https://media.giphy.com/media/3o7TKy99YozGr2UAuI/giphy.gif)
 
-Welcome to my GitHub lair. Grinding daily to level up as a developer.
+> Welcome to my GitHub lair. Grinding daily to level up as a developer.
 
 ---
 
 ## 👾 About Me
 
-I'm a college student on a mission to improve my coding skills every single day.
+College student on a mission to sharpen coding skills every single day.
 
 - 🌱 **Currently Learning:** Java, C#, ASP.NET, Python, ESP32
 - 💼 **Status:** Developer in training mode
-- ⚔️ **Open to:** Challenging projects and skill-building collaborations
-- 📫 **Contact:** email@example.com
+- ⚔️ **Open to:** Challenging projects & skill-building collabs
+- 📫 **Reach me:** email@example.com
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
-Java | C# | Python | VB.NET | JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+</p>
 
-### 🗄️ Databases
-Oracle | MSSQL | MariaDB | XAMPP
-
-### ⚙️ Tools
-Git | VSCode
-
-### 🌐 Backend / Frameworks
-ASP.NET | .NET (Basics)
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Errnitsuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=errnitsuga&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=errnitsuga&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Errnitsuga's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=errnitsuga&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=errnitsuga&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=errnitsuga&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 🔥 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=errnitsuga&theme=dark)
-
----
-
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🔹 Hydroxeg
-Project link:  
-https://errnitsuga.github.io/hydroxeg/
+> A web-based project built with modern tools.
 
-More projects coming soon...
+[🌐 Live Demo](https://errnitsuga.github.io/hydroxeg/)  
+[📂 Source Code](https://github.com/errnitsuga/hydroxeg) *(add your repo link)*
+
+*More projects loading... stay tuned.* ⏳
 
 ---
 
 ## 🌎 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/errnitsuga  
-- Twitter: https://twitter.com/errnitsuga  
-- Website: https://www.errnitsuga.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/errnitsuga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/errnitsuga" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.errnitsuga.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 ---
 
-### 🎯 Current Goal
-Level up consistently and build real-world systems that solve real problems.
-
-Game on. 🎮
+### 🎯 Current Quest
+> Level up consistently and ship real-world systems that solve real problems.
