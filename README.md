@@ -1,39 +1,71 @@
 # Yo 🎮
 
-<img src="https://media.giphy.com/media/3o7TKy99YozGr2UAuI/giphy.gif?cid=790b7611pf21ygqnj7a44k6emzob14yub95zqqvurpedth6c&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Background Image" style="width:100%; height:200px; object-fit:cover;"/>
+<img src="https://media.giphy.com/media/3o7TKy99YozGr2UAuI/giphy.gif" alt="Banner" style="width:100%; height:200px; object-fit:cover;"/>
 
-Welcome to my GitHub lair. I'm just grinding my way through the coding levels.
+Welcome to my GitHub lair. Grinding daily to level up as a developer.
 
-## About Me
+---
 
-I'm a college student and a noob coder on a quest to level up. Not here to make friends, just here to get good.
+## 👾 About Me
 
-- 🌱 **Currently Learning:** Java, VB.NET, C#, ASP.NET, Python, ESP32. Gotta start somewhere.
-- 💼 **Occupation:** Wannabe developer, currently in training mode
-- ⚔️ **Open to:** Team-ups that push my skills to the limit
-- 📫 **Contact:** [email@example.com](mailto:email@example.com)
+I'm a college student on a mission to improve my coding skills every single day.
 
-## Skills
+- 🌱 **Currently Learning:** Java, C#, ASP.NET, Python, ESP32
+- 💼 **Status:** Developer in training mode
+- ⚔️ **Open to:** Challenging projects and skill-building collaborations
+- 📫 **Contact:** email@example.com
 
-- **Languages:** Java, VB.NET, C#, ASP.NET, Python, ESP32 (still leveling up)
-- **Databases:** Oracle, MSSQL, XAMPP, MariaDB (basic knowledge)
-- **Tools:** Git (kind of), VSCode
-- **Frameworks:** None, just the basics for now
+---
 
-## GitHub Stats
+## 🧠 Tech Stack
+
+### 💻 Languages
+Java | C# | Python | VB.NET | JavaScript
+
+### 🗄️ Databases
+Oracle | MSSQL | MariaDB | XAMPP
+
+### ⚙️ Tools
+Git | VSCode
+
+### 🌐 Backend / Frameworks
+ASP.NET | .NET (Basics)
+
+---
+
+## 📊 GitHub Stats
 
 ![Errnitsuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=errnitsuga&show_icons=true&theme=dark)
 
-## Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=errnitsuga&layout=compact&theme=dark)
 
-Here are my noob projects:
+---
 
-1. **[Hydroxeg](https://errnitsuga.github.io/hydroxeg/)**: Project.
+## 🔥 Activity
 
-## Connect with Me
+![GitHub Streak](https://streak-stats.demolab.com/?user=errnitsuga&theme=dark)
 
-- [LinkedIn](https://www.linkedin.com/in/errnitsuga)
-- [Twitter](https://twitter.com/errnitsuga)
-- [Personal Website](https://www.errnitsuga.com)
+---
 
-That's it. Game on. 🎮
+## 🚀 Projects
+
+### 🔹 Hydroxeg
+Project link:  
+https://errnitsuga.github.io/hydroxeg/
+
+More projects coming soon...
+
+---
+
+## 🌎 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/errnitsuga  
+- Twitter: https://twitter.com/errnitsuga  
+- Website: https://www.errnitsuga.com  
+
+---
+
+### 🎯 Current Goal
+Level up consistently and build real-world systems that solve real problems.
+
+Game on. 🎮
